@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<plugins>
+    <pyqgis_plugin name="Aboelil GeoAccess Sync" version="1.0">
+        <description>Enterprise Sync Tool by Aboelil for Smart Systems</description>
+        <version>1.0</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <homepage>https://github.com/ahmed-m-abdelgawad/AboelilGeoAccess</homepage>
+        <file_name>AboelilGeoAccess.zip</file_name>
+        <download_url>https://github.com/ahmed-m-abdelgawad/AboelilGeoAccess/raw/main/AboelilGeoAccess.zip</download_url>
+    </pyqgis_plugin>
+</plugins>
